@@ -7,24 +7,24 @@ const fs = require("fs");
 const chalk = require("chalk");
 
 /* ~~~~~~~~~ WEB API ~~~~~~~~~ */
-global.lol = ""; // https://api.lolhuman.xyz
-global.xzn = ""; // https://xnz.wtf
+global.lol = "pentilkuda"; // https://api.lolhuman.xyz
+global.xzn = "Always ditz"; // https://xnz.wtf
 /* ~~~~~~~~~ SETTINGS OWNER ~~~~~~~~~ */
-global.numberowner = "62895347198105"; // Owner Utama
-global.owner = ["62895347198105"]; // Owner Lainnya
-global.namaowner = "Arifzyn."; // Nama Owner
-global.premium = ["62895347198105"]; // Premium User
-global.nobot = "62895347198105";
+global.numberowner = "6285603256172"; // Owner Utama
+global.owner = ["6285603256172"]; // Owner Lainnya
+global.namaowner = "*_Skyzo_*"; // Nama Owner
+global.premium = ["6285603256172"]; // Premium User
+global.nobot = "6287831823978";
 /* ~~~~~~~~~ SETTINGS BOT ~~~~~~~~~ */
-global.namabot = "Arifzyn-MD"; // NickBot
+global.namabot = "Anonymous-MD"; // NickBot
 global.typemenu = "v2"; // 'v1' > 'v2' > 'v3' > 'v4'
 global.typereply = "v1"; // 'v1' > 'v2'
-global.autoread = false; // ReadChat
+global.autoread = true; // ReadChat
 global.autobio = false; // AutoBio
 global.autoblok212 = true; // AutoBlock Nomer +212
 global.onlyindo = false; // AutoBlock Selain Nomer Indo
 global.packname = "Copyright © 2023"; // Watermark Sticker
-global.author = "Arifzyn."; // Watermark Sticker
+global.author = "*_Skyzo_*"; // Watermark Sticker
 /* ~~~~~~~~~ MESSAGES ~~~~~~~~~ */
 global.mess = {
   done: "Done ✅",
